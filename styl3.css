@@ -1,0 +1,15 @@
+body {
+font-family: 'Merriweather', serif;
+}
+
+p {
+    font-size: 28px
+}
+
+ #primeiro-p {
+    font-size:  34px;
+}
+
+.paragrafo-bold { {
+    font-weight: 700;
+}
